@@ -33,3 +33,11 @@ https://brittrademaker.github.io/web-typography-18-19/closed-captions/
 ## Procesboek
 
 In het begin van het vak ben ik begonnen met een aantal schetsen om de richting aan te kunnen geven. Uiteindelijk ben ik veel in de browser gaan designen en ben ik mijn ontwerp steeds verder uit gaan breiden. De eerste schetsen zijn hier te zien: [de concept.pdf](concept.pdf).
+
+## Details
+
+Britt Rademaker
+brittrademaker.nl
+Leerlingnummer 500745149
+Datum 22 mei 2019
+Docent Vasilis
