@@ -141,7 +141,7 @@ p {
 .p1 {
     display: block;
     color: #ffe84a;
-    top: 5%;
+    top: 10%;
     left: 5%;
     font-size: 500%;
     font-style: italic;
@@ -739,6 +739,67 @@ p:nth-of-type(4) {
     position: absolute;
 }
 
+.p54.on span:first-of-type:before {
+    color: black;
+    font-size: 20px;
+    left: 15%;
+    content: 'Inter';
+    position: absolute;
+    top: 27%;
+    color: var(--blue);
+    font-size: 27px;
+    position: absolute;
+    z-index: 2;
+    font-family: 'Brenner Slab Bold';
+    text-transform: uppercase;
+    transform: rotate(-10deg);
+    letter-spacing: 5px;
+    text-shadow: 0 0 0 transparent, -2px -2px 0 #000000, 0px -2px 0 #000000, 2px -2px 0 #000000, -2px 0px 0 #000000, 0px 0px 0 #000000, 2px 0px 0 #000000, -2px 2px 0 #000000, 0px 2px 0 #000000, 2px 2px 0 #000000, 0px 0px #000000, 2px 2px #000000, 2px 2px #000000, 4px 4px #000000;
+}
+
+.p54.on span:first-of-type:after {
+    color: black;
+    font-size: 20px;
+    left: 15%;
+    content: 'Linked';
+    position: absolute;
+    top: 45%;
+    color: var(--blue);
+    font-size: 27px;
+    position: absolute;
+    z-index: 2;
+    font-family: 'Brenner Slab Bold';
+    text-transform: uppercase;
+    transform: rotate(-10deg);
+    letter-spacing: 5px;
+    text-shadow: 0 0 0 transparent, -2px -2px 0 #000000, 0px -2px 0 #000000, 2px -2px 0 #000000, -2px 0px 0 #000000, 0px 0px 0 #000000, 2px 0px 0 #000000, -2px 2px 0 #000000, 0px 2px 0 #000000, 2px 2px 0 #000000, 0px 0px #000000, 2px 2px #000000, 2px 2px #000000, 4px 4px #000000;
+}
+
+.p54.on span:first-of-type {
+    color: transparent;
+    top: -2400%;
+    right: 35%;
+    height: 150px;
+    width: 170px;
+    background-image: url(img/speech_bubble.svg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    position: absolute;
+    animation: hide_quick .8s forwards;
+}
+
+@keyframes hide_quick {
+    0% {
+        opacity: 100
+    }
+    99% {
+        opacity: 100
+    }
+    100% {
+        opacity: 0
+    }
+}
+
 .p59::before {
     color: black;
     font-size: 20px;
@@ -866,8 +927,6 @@ p:nth-of-type(4) {
     margin-top: -90px;
     animation: text-flicker 0.2s infinite;
 }
-
-
 
 .p67::before {
     color: black;
@@ -1144,7 +1203,7 @@ p:nth-of-type(4) {
     font-size: 60px;
     position: absolute;
     left: 6.5%;
-    top: 14%;
+    top: 13%;
     z-index: 2;
     font-family: 'Brenner Slab Bold';
     text-transform: uppercase;
@@ -1179,7 +1238,7 @@ p:nth-of-type(4) {
     font-size: 60px;
     position: absolute;
     left: 6.5%;
-    top: 14%;
+    top: 13%;
     z-index: 2;
     font-family: 'Brenner Slab Bold';
     text-transform: uppercase;
@@ -1209,7 +1268,7 @@ p:nth-of-type(4) {
     font-size: 60px;
     position: absolute;
     left: 6.5%;
-    top: 14%;
+    top: 13%;
     z-index: 2;
     font-family: 'Brenner Slab Bold';
     text-transform: uppercase;
@@ -1504,12 +1563,45 @@ p:nth-of-type(4) {
         left: 40%;
     }
 
+    .p48::before {
+        left: 35%;
+    }
+
     .p56::before {
         margin-bottom: -30px;
     }
 
     .p56::after {
         margin-top: -30px;
+    }
+
+    .p59::before {
+        left: 38%;
+    }
+
+    .p59::after {
+        top: 49%;
+        left: 40%;
+    }
+
+    .p50.on span:last-of-type {
+        top: -2300%;
+        right: 15%;
+    }
+
+    .p54.on span:first-of-type:before {
+        left: 15%;
+        top: 27%;
+    }
+
+    .p54.on span:first-of-type:after {
+        left: 15%;
+        top: 45%;
+    }
+
+    .p54.on span:first-of-type {
+        top: -1150%;
+        right: 15%;
     }
 
     .p68::before {
@@ -1565,6 +1657,14 @@ p:nth-of-type(4) {
     .p43 {
         top: 58%;
         left: 0%;
+    }
+
+    .p67 {
+        top: 23%;
+        left: 16%;
+    }
+    .p67::before {
+        left: 35%;
     }
     .p70 {
         top: 25%;
