@@ -62,7 +62,12 @@ p {
 .p4 span,
 .p5 span,
 .p6 span,
-.p7 span {
+.p7 span,
+.p58 span,
+.p70 span,
+.p72 span,
+.p74 span,
+.p76 span {
     opacity: 0;
 }
 
@@ -311,7 +316,7 @@ p:nth-of-type(4) {
     top: 12%;
     right: 43%;
     text-align: center;
-    width: 300px;
+    width: 210px;
     background: white;
     border-bottom: 4px solid black;
     border-top: 8px solid black;
@@ -473,7 +478,7 @@ p:nth-of-type(4) {
 
 .p7.on span:nth-of-type(6) {
     opacity: 1;
-    transition: 0s 2.1s;
+    transition: 0s 1.8s;
 }
 
 .p7.on span:nth-of-type(7) {
@@ -703,9 +708,9 @@ p:nth-of-type(4) {
 
 .p58 {
     top: 15%;
-    right: 10%;
+    right: 15%;
     text-align: center;
-    width: 300px;
+    width: 100px;
     background: white;
     border-bottom: 4px solid black;
     border-top: 8px solid black;
@@ -733,6 +738,22 @@ p:nth-of-type(4) {
     border-bottom: 10px solid transparent;
     right: 40px;
     bottom: -19px;
+}
+
+.p58.on span:first-of-type {
+    opacity: 1;
+    transition: 0s;
+}
+
+.p58.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s .2s;
+    font-weight: 400;
+}
+
+.p58.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .3s;
 }
 
 .p59::after {
@@ -842,7 +863,6 @@ p:nth-of-type(4) {
 .p70 {
     top: 5%;
     right: 43%;
-
     text-align: center;
     width: 150px;
     background: white;
@@ -872,6 +892,22 @@ p:nth-of-type(4) {
     border-bottom: 10px solid transparent;
     right: 40px;
     bottom: -19px;
+}
+
+.p70.on span:first-of-type {
+    opacity: 1;
+    transition: 0s;
+}
+
+.p70.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s .2s;
+    font-weight: 400;
+}
+
+.p70.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .3s;
 }
 
 .p72 {
@@ -908,6 +944,22 @@ p:nth-of-type(4) {
     bottom: -19px;
 }
 
+.p72.on span:first-of-type {
+    opacity: 1;
+    transition: 0s;
+}
+
+.p72.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s .2s;
+    font-weight: 400;
+}
+
+.p72.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .3s;
+}
+
 .p74 {
     top: 15%;
     right: 20%;
@@ -942,6 +994,22 @@ p:nth-of-type(4) {
     bottom: -19px;
 }
 
+.p74.on span:first-of-type {
+    opacity: 1;
+    transition: 0s;
+}
+
+.p74.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s .3s;
+    font-weight: 400;
+}
+
+.p74.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .6s;
+}
+
 .p76 {
     top: 30%;
     right: 20%;
@@ -974,6 +1042,22 @@ p:nth-of-type(4) {
     border-bottom: 10px solid transparent;
     right: 40px;
     bottom: -19px;
+}
+
+.p76.on span:first-of-type {
+    opacity: 1;
+    transition: 0s;
+}
+
+.p76.on span:nth-of-type(2) {
+    opacity: 1;
+    transition: 0s .2s;
+    font-weight: 400;
+}
+
+.p76.on span:nth-of-type(3) {
+    opacity: 1;
+    transition: 0s .3s;
 }
 
 .sound1 iframe {
@@ -1023,7 +1107,7 @@ p:nth-of-type(4) {
 }
 
 .sound6 iframe {
-    animation: scale_frame1 .5s linear forwards;
+    animation: scale_frame1 .1s linear forwards;
 }
 
 .sound6::before {
@@ -1053,7 +1137,7 @@ p:nth-of-type(4) {
 }
 
 .sound8 iframe {
-    animation: scale_frame2 .5s linear forwards;
+    animation: scale_frame2 .1s linear forwards;
 }
 
 .sound8::before {
