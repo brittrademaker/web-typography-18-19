@@ -40,4 +40,3 @@ Britt Rademaker
 brittrademaker.nl
 Leerlingnummer 500745149
 Datum 22 mei 2019
-Docent Vasilis
