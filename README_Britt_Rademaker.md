@@ -5,12 +5,19 @@ Ik heb dit vak ervaren als een grote uitdaging en een ingewikkelde puzzel. Toch 
 ## Leerdoelen
 
 - Je kan de kennis over vormgeving die je hebt geleerd tijdens de minor technisch toepassen met behulp van CSS
+
     Ik heb dit toegepast door middel van het kiezen van een bepaalde stijl en kleuren die op elkaar afgestemd worden. Ik heb mijn inspiratie gehaald uit comic strips omdat deze zonder geluid toch een bepaalde sfeer kunnen overbrengen. Hierom vond ik dit dus een goed uitgangspunt om ook her en der te gebruiken door mijn fragment heen.
+    
 - Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele typografische beelden
+
     Dit heb ik gedaan door te kijken naar licht, trillingen en geluiden die in comic strips worden uitgeschreven.
+    
 - Je kan je typografische keuzes onderbouwen.
+
     Ik heb gekozen voor het brenner font omdat ik zo de meerdere stemmen op verschillende manieren vorm kon geven. Ook laat ik af en toe ook delen van het beeld weg en probeer ik dit te combineren met iets uitgebreidere typografische keuzes in de fontjes zodat het wel interessant blijft. 
+    
 - Je hebt het experiment niet geschuwd
+
     Ik hoop het *wink*
 
 ## Het fragment
@@ -18,6 +25,10 @@ Ik heb dit vak ervaren als een grote uitdaging en een ingewikkelde puzzel. Toch 
 Gekozen fragment: twee scenes uit *Blade Runner 2049*.
 
 Note: om het fragment te starten, beweeg je muis naar de onderkant van het beeld. In het midden doet hij het niet... 
+
+## Link naar fragment
+
+https://brittrademaker.github.io/web-typography-18-19/closed-captions/
 
 ## Procesboek
 
