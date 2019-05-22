@@ -94,13 +94,13 @@ captions[67] = ['115.02', '115.56'];
 // -Dark
 captions[68] = ['115.56', '116.26'];
 captions[69] = ['116.26', '117.4'];
-captions[70] = ['117.4', '118.44'];
+captions[70] = ['117.4', '125.52'];
 // Withing one stem
 captions[71] = ['118.44', '120'];
-captions[72] = ['120.46', '121.28'];
+captions[72] = ['120.46', '125.52'];
 captions[73] = ['121.4', '122.66'];
 // -And dreadfully distinct
-captions[74] = ['122.66', '123.86'];
+captions[74] = ['122.66', '125.52'];
 captions[75] = ['123.98', '124.92'];
 captions[76] = ['124.92', '125.52'];
 // A tall white fountain played
